@@ -1,0 +1,6 @@
+# requirements.txt
+
+streamlit
+google-adk
+pypdf2
+python-dotenv
